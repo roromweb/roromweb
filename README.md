@@ -40,6 +40,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.iconscout.com/icon/free/png-256/babel-2-1175262.png?w=256&f=avif" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png?w=256&f=avif" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png?w=512&f=avif" title="Git" **alt="Git" width="40" height="40"/> 
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </div>
 
 ---
