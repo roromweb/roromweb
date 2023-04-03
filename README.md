@@ -18,13 +18,11 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Fullstack developer and contributing to frontend for building web applications.
-
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: I study new technologies on writing code in my free time.
 
-- :mailbox:How to reach me: webroromkad1012@gmail.com
+- :mailbox:How to reach me: webromkad1012@gmail.com
 
 ---
 
