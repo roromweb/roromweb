@@ -39,7 +39,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.iconscout.com/icon/free/png-256/babel-2-1175262.png?w=256&f=avif" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png?w=256&f=avif" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png?w=512&f=avif" title="Git" **alt="Git" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
 ---
