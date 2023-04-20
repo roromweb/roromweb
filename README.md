@@ -1,24 +1,22 @@
 <div id="header" align="center">
-
-  <h3>
  <img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="400" height="150px">
-
-  </h3>
-	
-	
-<a name="telegram" href="https://t.me/roromtg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="roromtg" height="40" width="40"/></a>
-<a name="watsapp" href="https://wa.me/79644082013"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
-<a name="gmail" href="webromkad1012@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>  
-
 </div>
 
- ## About me:
+<h3>About me</h3>
 
 I am a FullStack JavaScript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: I study new technologies on writing code in my free time.
+
+<h3>Feel free to contact me:</h3>
+
+<a href="https://t.me/roromtg"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="50px" /></a>
+<a href="https://wa.me/79644082013"><img src="https://flyclipart.com/thumbs/whatsapp-share-button-whatsapp-flat-icon-1033370.png" width="50px" /></a>
+<a href="mailto:webromkad1012@gmail.com"><img src="https://img2.freepng.ru/20180330/exq/kisspng-gmail-computer-icons-email-google-gmail-5abe0b61876325.5365481615224041935546.jpg" width="50px" /></a>
+
+
 
 :hammer_and_wrench: Languages and Tools :
 <div>
