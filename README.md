@@ -22,8 +22,12 @@ I am a FullStack JavaScript Developer <img src="https://media.giphy.com/media/WU
 
 - :zap: I study new technologies on writing code in my free time.
 
-- :mailbox:How to reach me: webromkad1012@gmail.com
 
+ ## There are some links to contact me:
+  
+<a name="telegram" href="https://t.me/roromtg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="roromtg" height="40" width="40"/></a>
+<a name="watsapp" href="https://wa.me/79644082013"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
+<a name="gmail" href="webromkad1012@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>  
 ---
 
 :hammer_and_wrench: Languages and Tools :
@@ -46,7 +50,12 @@ I am a FullStack JavaScript Developer <img src="https://media.giphy.com/media/WU
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roromweb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
+     <img align="right" alt="coding" src="https://64.media.tumblr.com/473270f06673ac5cca705ec334511483/a08f85053dec6069-79/s540x810/4879da9b36e8c2eade01bc3dc1aadaac3293c7ad.gif" data-canonical-src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" style="height: 140px; max-width: 350px; position: absolute; right: 200px; display: inline-block;" data-target="animated-image.originalImage">
+
+## Languages:
+
+<span>Russian <img src="https://emojiguide.org/images/emoji/h/1vue3mmx9e54h.png" alt="flag" height="48" width="48"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>English <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
 
 
 
