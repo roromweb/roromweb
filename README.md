@@ -2,7 +2,7 @@
 
   <h3>
  <img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="400" height="150px">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
   </h3>
 	  <div id="badges">
     <a href="https://t.me/roromtg">
