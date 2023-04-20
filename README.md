@@ -14,7 +14,7 @@ I am a FullStack JavaScript Developer <img src="https://media.giphy.com/media/WU
 
 <a href="https://t.me/roromtg"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="50px" /></a>
 <a href="https://wa.me/79644082013"><img src="https://flyclipart.com/thumbs/whatsapp-share-button-whatsapp-flat-icon-1033370.png" width="50px" /></a>
-<a href="mailto:webromkad1012@gmail.com"><img src="https://img2.freepng.ru/20180330/exq/kisspng-gmail-computer-icons-email-google-gmail-5abe0b61876325.5365481615224041935546.jpg" width="50px" /></a>
+<a name="gmail" href="webromkad@gmail.com"><img src="https://img2.freepng.ru/20180330/exq/kisspng-gmail-computer-icons-email-google-gmail-5abe0b61876325.5365481615224041935546.jpg" width="50px" /></a>
 
 
 
